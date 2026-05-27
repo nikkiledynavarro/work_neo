@@ -1,0 +1,3 @@
+﻿# Keep ZIP exports tracked in this repo
+*.zip
+!exports/neo-html5/*.zip
